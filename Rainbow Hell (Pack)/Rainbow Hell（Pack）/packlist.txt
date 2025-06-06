@@ -1,0 +1,13 @@
+{
+      "id": "rainbowhell",
+      "plus_character": -1,
+      "custom_banner": false,
+      "name_localized": {
+        "en": "Rainbow Hell",
+        "ja": ""
+      },
+      "description_localized": {
+        "en": "",
+        "ja": ""
+      }
+    },

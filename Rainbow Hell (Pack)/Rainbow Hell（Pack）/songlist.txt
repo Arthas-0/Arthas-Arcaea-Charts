@@ -1,0 +1,381 @@
+{
+      "id": "Chaoss",
+      "title_localized": {
+        "en": "混沌を越えし我らが神聖なる調律主を讃えよ"
+      },
+      "artist": "穴山大輔",
+      "bpm": "158-240",
+      "bpm_base": 240,
+      "set": "rainbowhell",
+      "purchase": "",
+      "audioPreview": 105039,
+      "audioPreviewEnd": 130539,
+      "side": 0,
+      "bg": "omegafour",
+      "version": "",
+      "date": 1613505257,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Arthas",
+          "jacketDesigner": "",
+          "rating": 11,
+          "ratingPlus": false
+        }
+      ]
+    },
+{
+      "id": "azure",
+      "title_localized": {
+        "en": "Λzure Vixen"
+      },
+      "artist": "かめりあ",
+      "bpm": "163",
+      "bpm_base": 163,
+      "set": "rainbowhell",
+      "purchase": "",
+      "audioPreview": 119262,
+      "audioPreviewEnd": 131041,
+      "side": 1,
+      "bg": "finale_conflict",
+      "version": "3.0",
+      "source_localized": {
+        "en": ""
+      },
+      "date": 1487980800,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Arthas",
+          "jacketDesigner": "",
+          "rating": 11,
+          "ratingPlus": false
+        }
+      ]
+    },
+{
+      "id": "reverenced",
+      "title_localized": {
+        "en": "Reverenced Flower"
+      },
+      "artist": "ぺのれり",
+      "bpm": "152-209",
+      "bpm_base": 202,
+      "set": "rainbowhell",
+      "purchase": "",
+      "audioPreview": 127267,
+      "audioPreviewEnd": 136475,
+      "side": 0,
+      "bg": "finale_light",
+      "version": "3.0",
+      "source_localized": {
+        "en": ""
+      },
+      "date": 1487980800,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Arthas",
+          "jacketDesigner": "",
+          "rating": 11,
+          "ratingPlus": true
+        }
+      ]
+    },
+{
+      "id": "absolute",
+      "title_localized": {
+        "en": "Absolute Domination"
+      },
+      "artist": "Laur",
+      "bpm": "218",
+      "bpm_base": 218,
+      "set": "rainbowhell",
+      "purchase": "",
+      "audioPreview": 79266,
+      "audioPreviewEnd": 92477,
+      "side": 1,
+      "bg": "pentiment",
+      "version": "3.0",
+      "source_localized": {
+        "en": ""
+      },
+      "date": 1487980800,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Arthas",
+          "jacketDesigner": "",
+          "rating": 11,
+          "ratingPlus": false
+        }
+      ]
+    },
+{
+      "id": "miserable",
+      "title_localized": {
+        "en": "You are the Miserable"
+      },
+      "artist": "t+pazolite",
+      "bpm": "163",
+      "bpm_base": 163,
+      "set": "rainbowhell",
+      "purchase": "",
+      "audioPreview": 25030,
+      "audioPreviewEnd": 36809,
+      "side": 0,
+      "bg": "lanota-light",
+      "version": "3.0",
+      "source_localized": {
+        "en": ""
+      },
+      "date": 1487980800,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Arthas",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": false
+        }
+      ]
+    },
+{
+      "id": "Flash",
+      "title_localized": {
+        "en": "電光石火"
+      },
+      "artist": "HITECH NINJA",
+      "bpm": "165",
+      "bpm_base": 165,
+      "set": "rainbowhell",
+      "purchase": "",
+      "audioPreview": 62181,
+      "audioPreviewEnd": 73819,
+      "side": 1,
+      "bg": "observer_conflict",
+      "version": "3.0",
+      "source_localized": {
+        "en": ""
+      },
+      "date": 1487980800,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Arthas",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": true
+        }
+      ]
+    },
+{
+      "id": "potential",
+      "title_localized": {
+        "en": "POTENTIAL"
+      },
+      "artist": "TAG",
+      "bpm": "150-200",
+      "bpm_base": 200,
+      "set": "rainbowhell",
+      "purchase": "",
+      "audioPreview": 95829,
+      "audioPreviewEnd": 110679,
+      "side": 0,
+      "bg": "gou",
+      "version": "3.0",
+      "source_localized": {
+        "en": ""
+      },
+      "date": 1487980800,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Arthas",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": true
+        }
+      ]
+    },
+{
+      "id": "titania",
+      "title_localized": {
+        "en": "Titania"
+      },
+      "artist": "xi",
+      "bpm": "212",
+      "bpm_base": 212,
+      "set": "rainbowhell",
+      "purchase": "",
+      "audioPreview": 25188,
+      "audioPreviewEnd": 43018,
+      "side": 0,
+      "bg": "observer_light",
+      "version": "3.0",
+      "source_localized": {
+        "en": "maimai"
+      },
+      "date": 1487980800,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Arthas",
+          "jacketDesigner": "",
+          "rating": 12,
+          "ratingPlus": false
+        }
+      ]
+    },
+{
+      "id": "star",
+      "title_localized": {
+        "en": "宿星審判"
+      },
+      "artist": "suzu",
+      "bpm": "189",
+      "bpm_base": 189,
+      "set": "rainbowhell",
+      "purchase": "",
+      "audioPreview": 33015,
+      "audioPreviewEnd": 43333,
+      "side": 1,
+      "bg": "chunithmthird_conflict",
+      "version": "",
+      "date": 1613505257,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0,
+          "ratingPlus": false
+        },
+        { 	
+          "ratingClass": 2,
+          "chartDesigner": "Arthas",
+          "jacketDesigner": "",		
+          "rating": 10,
+          "ratingPlus": true
+        }
+      ]
+    },
